@@ -40,7 +40,7 @@
 
 [【サンプル】](sample/20210302_本のタイトル_何章.md)
 
-- 格納先: YYYY/resume/YYYYMMDD_本のタイトル_何章.md（YYYYMMDDは輪読会開催日）
+- 格納先: [documentsリポジトリ](https://github.com/jns-reading-circle/documents)の「YYYY/resume/YYYYMMDD_本のタイトル_何章.md」（YYYYMMDDは輪読会開催日）
 - Markdownでの記述を推奨。
 
 ## これまでの輪読本
