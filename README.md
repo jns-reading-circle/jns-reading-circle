@@ -1,7 +1,7 @@
 # ようこそ技術書輪読部へ！！ 👋
 
 ---
-現在の輪読本: **[エリック・エヴァンスのドメイン駆動設計](https://www.shoeisha.co.jp/book/detail/9784798126708)**
+現在の輪読本: **[Web API: The Good Parts](https://www.oreilly.co.jp/books/9784873116860/)**
 
 次回の輪読会: **2026年11月10日**
 
